@@ -1,0 +1,15 @@
+C:\Users\OLI\OneDrive - NPTC Group\ICT Level 3 Year 2\Programming\Tasks\MethodHigherNumber\MethodHigherNumber\bin\Debug\net6.0\MethodHigherNumber.exe
+C:\Users\OLI\OneDrive - NPTC Group\ICT Level 3 Year 2\Programming\Tasks\MethodHigherNumber\MethodHigherNumber\bin\Debug\net6.0\MethodHigherNumber.deps.json
+C:\Users\OLI\OneDrive - NPTC Group\ICT Level 3 Year 2\Programming\Tasks\MethodHigherNumber\MethodHigherNumber\bin\Debug\net6.0\MethodHigherNumber.runtimeconfig.json
+C:\Users\OLI\OneDrive - NPTC Group\ICT Level 3 Year 2\Programming\Tasks\MethodHigherNumber\MethodHigherNumber\bin\Debug\net6.0\MethodHigherNumber.dll
+C:\Users\OLI\OneDrive - NPTC Group\ICT Level 3 Year 2\Programming\Tasks\MethodHigherNumber\MethodHigherNumber\bin\Debug\net6.0\MethodHigherNumber.pdb
+C:\Users\OLI\OneDrive - NPTC Group\ICT Level 3 Year 2\Programming\Tasks\MethodHigherNumber\MethodHigherNumber\obj\Debug\net6.0\MethodHigherNumber.csproj.AssemblyReference.cache
+C:\Users\OLI\OneDrive - NPTC Group\ICT Level 3 Year 2\Programming\Tasks\MethodHigherNumber\MethodHigherNumber\obj\Debug\net6.0\MethodHigherNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OLI\OneDrive - NPTC Group\ICT Level 3 Year 2\Programming\Tasks\MethodHigherNumber\MethodHigherNumber\obj\Debug\net6.0\MethodHigherNumber.AssemblyInfoInputs.cache
+C:\Users\OLI\OneDrive - NPTC Group\ICT Level 3 Year 2\Programming\Tasks\MethodHigherNumber\MethodHigherNumber\obj\Debug\net6.0\MethodHigherNumber.AssemblyInfo.cs
+C:\Users\OLI\OneDrive - NPTC Group\ICT Level 3 Year 2\Programming\Tasks\MethodHigherNumber\MethodHigherNumber\obj\Debug\net6.0\MethodHigherNumber.csproj.CoreCompileInputs.cache
+C:\Users\OLI\OneDrive - NPTC Group\ICT Level 3 Year 2\Programming\Tasks\MethodHigherNumber\MethodHigherNumber\obj\Debug\net6.0\MethodHigherNumber.dll
+C:\Users\OLI\OneDrive - NPTC Group\ICT Level 3 Year 2\Programming\Tasks\MethodHigherNumber\MethodHigherNumber\obj\Debug\net6.0\refint\MethodHigherNumber.dll
+C:\Users\OLI\OneDrive - NPTC Group\ICT Level 3 Year 2\Programming\Tasks\MethodHigherNumber\MethodHigherNumber\obj\Debug\net6.0\MethodHigherNumber.pdb
+C:\Users\OLI\OneDrive - NPTC Group\ICT Level 3 Year 2\Programming\Tasks\MethodHigherNumber\MethodHigherNumber\obj\Debug\net6.0\MethodHigherNumber.genruntimeconfig.cache
+C:\Users\OLI\OneDrive - NPTC Group\ICT Level 3 Year 2\Programming\Tasks\MethodHigherNumber\MethodHigherNumber\obj\Debug\net6.0\ref\MethodHigherNumber.dll
